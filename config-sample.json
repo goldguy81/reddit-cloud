@@ -1,8 +1,8 @@
 {
     "username": "<your bot username here>",
-    "password": "<password here>",
-    "userAgent": "A word cloud generator run by /u/<your real username here>",
-    "replyPause": 300,
+    "password": "silver",
+    "userAgent": "A word cloud generator run by /u/goldguy81",
+    "replyPause": 3000,
     "size": 400,
     "scale": 2,
     "clientId": "<your imgur client id>",
