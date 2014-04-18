@@ -1,11 +1,11 @@
 {
-    "username": "<your bot username here>",
+    "username": "DandyCloudBot",
     "password": "silver",
     "userAgent": "A word cloud generator run by /u/goldguy81",
     "replyPause": 3000,
     "size": 400,
     "scale": 2,
-    "clientId": "<your imgur client id>",
-    "minComments": 50,
-    "signature": "<how you want to sign your messages, for example point to the bot master.>"
+    "clientId": "fea508da5072cb2",
+    "minComments": 12,
+    "signature": "Managed By /u/goldguy81, I post Word Clouds of /r/Switcharoo Comments"
 }
